@@ -34,5 +34,6 @@ CMakeFiles/
 Makefile
 
 # Util
-*.txt
 *.xml
+*.txt
+!CMakeLists.txt
