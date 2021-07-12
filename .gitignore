@@ -28,12 +28,10 @@
 *.cmake
 *.bin
 *.log
-*.iml
 *.cbp
 CMakeFiles/
 Makefile
 
 # Util
-*.xml
 *.txt
 !CMakeLists.txt
