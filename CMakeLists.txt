@@ -14,7 +14,6 @@ else()
     set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/Linux/lib)
     set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/Linux/bin)
 endif()
-
 add_compile_options(-DBUILD_DLL)
 
 if (WIN32)
